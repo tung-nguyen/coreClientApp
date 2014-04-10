@@ -1,0 +1,40 @@
+{
+  "name": "coreclientapp",
+  "version" : "1.0",
+  "dependencies": {
+    "angular": "1.2.6",
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0",
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.0.3",
+    "angular-resource": "1.2.6",
+    "angular-cookies": "1.2.6",
+    "angular-sanitize": "1.2.6",
+    "angular-route": "1.2.6"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.6",
+    "angular-scenario": "1.2.6"
+  },
+  "authors": [
+    "Tung Nguyen <tungnguyen@vsoft.vn>"
+  ],
+  "description": "Core client application for mobile",
+  "main": "script/app.js",
+  "keywords": [
+    "awesome"
+  ],
+  "license": "MIT",
+  "homepage": "http://vsoft.vn",
+  "private": false,
+  "_target": "1.0",
+  "_release": "e50f314cab",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e50f314cab35fef20cd04e0420ff0d97739637ae"
+  },
+  "_source": "git://github.com/tung-nguyen/coreClientApp.git",
+  "_originalSource": "vsoft-core-client",
+  "_direct": true
+}
