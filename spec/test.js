@@ -8,6 +8,3 @@ function test()
 function a(){
     return false;
 }
-function c(){
-    return false;
-}
