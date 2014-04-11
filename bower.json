@@ -1,6 +1,6 @@
 {
   "name": "coreclientapp",
-  "version": "1.0",
+  "version": "0.0.1",
   "dependencies": {
     "angular": "1.2.6",
     "json3": "~3.2.6",
@@ -27,5 +27,12 @@
   "license": "MIT",
   "homepage": "http://vsoft.vn",
   "private": false,
-  "_target": "1.0"
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app",
+    "test",
+    "tests"
+  ]
 }
