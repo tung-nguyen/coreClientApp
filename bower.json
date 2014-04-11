@@ -26,14 +26,7 @@
   ],
   "license": "MIT",
   "homepage": "http://vsoft.vn",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "app/bower_components"
-  ],
+  "private": false,
+
     "_target" : "0.0.3"
 }
