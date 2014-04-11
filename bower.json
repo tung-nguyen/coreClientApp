@@ -1,5 +1,5 @@
 {
-  "name": "coreclientapp",
+  "name": "Core Client App",
   "version": "0.0.1",
   "dependencies": {
     "angular": "1.2.6",
@@ -20,19 +20,20 @@
     "Tung Nguyen <tungnguyen@vsoft.vn>"
   ],
   "description": "Core client application for mobile",
-  "main": "script/app.js",
+  "main": "dist/core.js",
   "keywords": [
     "awesome"
   ],
   "license": "MIT",
   "homepage": "http://vsoft.vn",
-  "private": false,
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "app",
     "test",
-    "tests"
+    "tests",
+    "app/bower_components"
   ]
 }
