@@ -5,3 +5,9 @@ function test()
 {
     return true;
 }
+function a(){
+    return false;
+}
+function c(){
+    return false;
+}
