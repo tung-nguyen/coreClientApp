@@ -20,7 +20,7 @@
     "Tung Nguyen <tungnguyen@vsoft.vn>"
   ],
   "description": "Core client application for mobile",
-  "main": "dist/core.js",
+  "main": "stable/core.min.js",
   "keywords": [
     "awesome"
   ],
