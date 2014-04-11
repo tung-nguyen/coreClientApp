@@ -26,7 +26,5 @@
   ],
   "license": "MIT",
   "homepage": "http://vsoft.vn",
-  "private": false,
-
-    "_target" : "0.0.3"
+  "private": false
 }
