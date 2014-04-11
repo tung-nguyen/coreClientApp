@@ -1,6 +1,6 @@
 {
   "name": "Core Client App",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "dependencies": {
     "angular": "1.2.6",
     "json3": "~3.2.6",
